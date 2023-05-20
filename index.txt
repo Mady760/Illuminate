@@ -1,0 +1,101 @@
+------------------------
+Header
+---------------------------
+Background:  bg-img
+Nav bg: #252537
+Font:   Myriad Pro
+Header Btn:  Impact
+
+
+-----------------------
+Sec-1
+---------------------------
+Background color:  #0d0a18
+
+sec-1 heading font:  Humnst777 BlkCn BT
+sec-1 description font:  Cambria Math
+
+
+sec-1 heading:  SAN FRANCISCO’S ELITETATTO PARLOR
+sec-1 heading description: 
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life  
+
+
+
+-----------------------
+Studio
+---------------------------
+sec-1 heading font:  Bodoni Bd BT
+sec-1 description font: Calibri
+
+lines color: #cc9536
+
+
+studio heading: OUR STUDIO
+studio heading description:  
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life
+
+Img-1 Title:  Tattoos & Fine Art
+Img-2 Title:  Piercings & Mods
+Img-3 Title:  Jewelry & Merch
+
+Imgs Title: One day however a small line of blind text by the name of  Lorem Ipsum decided to leave for the far World of Grammar.
+
+
+
+-----------------------
+ARTISTS
+---------------------------
+ARTIST heading font: Humnst777 Cn BT
+ARTIST title font: Arial
+
+ARTIST imgs heading font: Humnst777 Cn BT
+ARTIST imgs description font:  Cambria Math
+
+
+Text Color: #fbede8
+Background Color: #e7958d
+
+artist heading: ARTISTS
+artist title: EXPRINCE + TALENT
+
+
+img-1 title: Ami Jame  
+img-1 description: TATTOO ARTIST
+
+img-2 title: Corey Miller 
+img-2 description: TATTOO ARTIST
+
+img-3 title:Dan Smith
+img-3 description: TATTOO ARTIST
+
+img-4 title: Elaine Davidson
+img-4 description: TATTOO ARTIST
+
+
+
+-----------------------
+Footer
+---------------------------
+
+Footer font:  Cambria Math
+
+text & border color: #62441c
+Background color:  #0d0a18
+
+col-1 heading: ADDRESS
+col-1 content: Illuminati Tattoo
+1705 Mariposa St.
+San Francisco, CA
+
+
+col-2 heading: HOURS
+col-2 content: Mon-Fri: 9am - 6pm
+Saturday: 10am - 8pm
+Sunday: Closed
+
+
+col-3 heading: PHONE
+col-3 content: Phone: (92)3104100997
+Fax: (800) 123 - 4566

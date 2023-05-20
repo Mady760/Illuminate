@@ -1,0 +1,56 @@
+@font-face {
+    font-family: BODONIB;
+    src: url(/Style/Fonts/BODONIB.TTF);
+}
+@font-face {
+    font-family: calibri;
+    src: url(/Style/Fonts/calibri-regular.ttf);
+}
+@font-face {
+    font-family: Humanist;
+    src: url(/Style/Fonts/Humanist777CondensedBT.ttf);
+}
+@font-face {
+    font-family: cambria;
+    src: url(/Style/Fonts/cambria.ttc)
+}
+
+
+html{
+    font-size: 62.5%;
+}
+h1{
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+p{
+    font-size: 2rem;
+}
+
+li{
+    list-style: none;
+    font-size: 2rem;
+}
+a{
+    text-decoration: none;
+    color: var(black);
+    font-size: 2rem;
+}
+
+
+hr{
+    border: 7px solid #cc9536;
+    width: 20rem;
+    margin: 1rem auto;
+}
+.hr-2{
+    width: 30rem;
+}
