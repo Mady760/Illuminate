@@ -18,3 +18,13 @@
 // function ScrollUp(){
 //     window.scrollTo(0,0)
 // }
+
+const navLinks = document.querySelector('.nav-links');
+// const tLogo = document.querySelector('#tLogo');
+const tLogo = document.getElementById('tLogo');
+
+tLogo.addEventListener('click', () =>{
+    // navLinks.style.transform = 'translateY(0%)'
+    navLinks.classList.toggle("navbarT")
+    console.log('Done')
+})
