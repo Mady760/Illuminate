@@ -1,3 +1,111 @@
+@media (max-width: 800px){
+    html{
+        font-size: 54%;
+        scroll-behavior: smooth;
+    }
+    .gaps{
+        padding: 3rem 0;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .container{
+        overflow: hidden;
+    }
+    nav{
+        display: none;
+    }
+    .bgimg{
+        background-image:url(/assets/imgs/header\ bg.png);
+        background-size: cover;
+        background-position-x: center ;
+        height: 70vh;
+        max-width: 100%;
+    }
+    header .btn{
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        height: 60vh;
+    }
+    header .btn button{
+        padding: 2rem 3rem;
+        font-size: 2.5rem;
+    }
+
+/* Section-1 */
+
+    main section .sec-1 h1{
+        font-size: 4rem;
+        margin: 4rem auto;
+    }
+
+    main section .sec-1 p{
+        font-size: 1.5rem;
+    }
+
+    main section .sec-1 .bottom{
+    grid-template-columns:1fr 1fr 1fr;
+    justify-content: center;
+    }
+    main section .sec-1 .bottom img{
+        height: 15vh;
+    }
+
+/* Studio */
+
+main section .studio .top p{
+    color: #000;
+    margin-bottom: 5rem;
+    width: 80%;
+    margin: 2rem auto;
+    font-size: 1.5rem;
+    margin-bottom: 5rem;
+}
+
+main section .studio .bottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3rem;
+    text-align: center;
+}
+main section .studio .bottom img{
+    height: 30vh;
+}
+
+/* Artical */
+main section .artical .bottom{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    gap: 3rem;
+    width: 100%;
+    margin: 7rem auto;
+    justify-content: center;
+
+}
+main section .artical .bottom .card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+main section .artical .bottom .card .content{
+    margin-top: 1rem;
+    text-align: center;
+}
+
+/* Footer */
+
+footer .cols{
+    padding: 1rem;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    justify-content: left;
+    gap: 2rem;
+    margin: 2rem;
+}
+}
+
+
 @media (max-width: 500px){
     html{
         font-size: 54%;
