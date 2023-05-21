@@ -73,6 +73,10 @@ main section .studio .bottom img{
 }
 
 /* Artical */
+main section .artical{
+    margin-top: -5vh;
+}
+
 main section .artical .bottom{
     display: grid;
     grid-template-columns:1fr 1fr;
@@ -177,14 +181,19 @@ main section .studio .bottom{
 }
 
 /* Artical */
+main section .artical{
+    margin-top: -10vh;
+}
 main section .artical .bottom{
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 3rem;
     width: 100%;
     margin: 7rem auto;
     justify-content: center;
-
+}
+main section .artical .bottom img{
+    height: 30vh;
 }
 main section .artical .bottom .card{
     display: flex;

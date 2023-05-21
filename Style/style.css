@@ -175,9 +175,12 @@ main section .studio .bottom p{
 /* Artical */
 
 main section .artical{
+    margin-top: -40vh;
+}
+
+main section .artical{
     background-color: #ffe1dd;
     border-top: 3px solid #e7958d;
-    margin: 0 auto;
     padding: 10rem 10rem;
 }
 main section .artical h2 ,
@@ -204,13 +207,19 @@ main section .artical .bottom{
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
     margin-top: 7rem;
-}
-main section .artical .bottom .card{
-    display: flex;
+    justify-content: center;
     align-items: center;
 }
+main section .artical .bottom .card{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center; */
+    align-items: center;
+    width: 100%;
+}
 main section .artical .bottom .card .content{
-    margin-left: 3rem;
+    /* margin-left: 3rem; */
     font-family: var(--humanist);
 }
 main section .artical .bottom .card .content h3{
