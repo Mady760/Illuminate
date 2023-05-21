@@ -260,9 +260,10 @@ footer .cols{
     display: grid;
     padding: 1rem 3rem;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 14rem;
+    gap: 15rem;
     color: white;
     margin: 0 auto;
+    width: 96%;
     text-align: left;
 }
 
@@ -293,5 +294,5 @@ footer .last-sec h1{
 footer .last-sec p{
     text-transform: capitalize;
     color: #62441c;
-    margin: 1rem 0 0  0;
+    font-size: 1.5rem;
 }
