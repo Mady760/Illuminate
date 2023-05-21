@@ -18,6 +18,8 @@
 
 html{
     font-size: 62.5%;
+    scroll-behavior: smooth;
+    user-select: none;
 }
 h1{
     font-size: 5rem;
