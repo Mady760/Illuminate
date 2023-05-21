@@ -1,4 +1,4 @@
-/* @media (max-width: 1200px){ */
+@media (max-width: 1000px){
     html{
         font-size: 54%;
         scroll-behavior: smooth;
@@ -37,6 +37,14 @@
     main section .sec-1 h1{
         font-size: 4rem;
         margin: 4rem auto;
+    }
+    hr{
+        border: 3px solid #cc9536;
+        width: 10rem;
+        margin: 1rem auto;
+    }
+    .hr-2{
+        width: 15rem;
     }
 
     main section .sec-1 p{
@@ -107,7 +115,7 @@ footer .cols{
     gap: 2rem;
     margin: 2rem;
 }
-/* } */
+}
 
 
 
@@ -153,6 +161,14 @@ footer .cols{
     main section .sec-1 h1{
         font-size: 4rem;
         margin: 4rem auto;
+    }
+    hr{
+        border: 3px solid #cc9536;
+        width: 10rem;
+        margin: 1rem auto;
+    }
+    .hr-2{
+        width: 15rem;
     }
 
     main section .sec-1 p{
@@ -265,6 +281,15 @@ footer .cols{
     main section .sec-1 h1{
         font-size: 2rem;
         margin-bottom: 2rem;
+    }
+
+    hr{
+        border: 3px solid #cc9536;
+        width: 10rem;
+        margin: 1rem auto;
+    }
+    .hr-2{
+        width: 15rem;
     }
 
     main section .sec-1 p{
